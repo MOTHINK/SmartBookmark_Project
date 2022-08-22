@@ -1,0 +1,22 @@
+[
+    {
+      "url": "www.google.com",
+      "favicon": "https://www.google.com/s2/favicons?domain=www.google.com"
+    },
+    {
+      "url": "www.as.com",
+      "favicon": "https://www.google.com/s2/favicons?domain=www.as.com"
+    },
+    {
+      "url": "www.marca.com",
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marca.com"
+    },
+    {
+      "url": "www.xataka.com",
+      "favicon": "https://www.google.com/s2/favicons?domain=www.xataka.com"
+    },
+    {
+      "url": "www.google.com/search?q=traductor&sxsrf=ALeKk00tWnJ6GwI2bio3wIlaWkM2nunDPA%3A1624731023262&ei=j23XYK7MD9HOgwft-LqwBw&oq=traductor&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCCMQsAMQJzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQsAMQQ0oECEEYAFAAWABgsFZoAnACeACAATmIATmSAQExmAEAqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz",
+      "favicon": "https://www.google.com/s2/favicons?domain=www.google.com"
+    }
+]

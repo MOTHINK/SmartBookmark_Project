@@ -1,0 +1,14 @@
+{
+    "manifest_version":2,
+    "name": "Smart Bookmark",
+    "description": "Shows recent YT video links from JQQ",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "bookmark.png",
+        "default_popup": "bookmark.html"
+    },
+    "permissions": [
+        "tabs",
+        "bookmarks"
+    ]
+}
